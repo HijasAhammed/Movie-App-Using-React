@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.login_bg {
+    background-image: url('./assets/pexels-joshua-welch-763172-1624600.jpg');
+    background-position: center;
+    background-size: cover
+}
