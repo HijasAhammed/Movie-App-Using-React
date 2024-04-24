@@ -38,7 +38,6 @@ import { Link } from 'react-router-dom'
       <br />
       <div className='text-blue-600' ><Link to="/">Don't have an account?Register</Link></div>
 
-
     </div>
     </div>
     
